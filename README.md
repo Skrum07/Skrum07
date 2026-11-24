@@ -5,10 +5,15 @@
 ¡Hola! Soy Tomas Roa Infante, un profesional con más de 15 años de experiencia en la industria de la alimentación y los servicios. He entrado al mundo de las TI para generar un cambio en este rubro, incorporando la tecnología como un elemento diferenciador en este sector tan dinámico.
 
 ## Experiencia Profesional
+### ExChef, Valparaiso
+
+* Enero 2026 - Actualidad
+* Desarrollo de Software
+* Proyecto personal de desarrollo de software para la captura de datos, y la gestion de empresas del rubro gastronomico.
 
 ### Visual Project, Viña del Mar
 
-* Enero 2020 - Actualidad
+* Enero 2020 - Enero 2023
 * Desarrollo de Software
 * Proyecto personal de desarrollo de software para la automatización de procesos dentro de la industria gastronómica.
 
